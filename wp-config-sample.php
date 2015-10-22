@@ -20,13 +20,13 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('DB_NAME', 'database_name_here');
+define('DB_NAME', 'BMO_Financial_Group');
 
 /** MySQL database username */
-define('DB_USER', 'username_here');
+define('DB_USER', 'ehsanmotamedi');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'password_here');
+define('DB_PASSWORD', 'password123');
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
@@ -46,7 +46,7 @@ define('DB_COLLATE', '');
  *
  * @since 2.6.0
  */
-define('AUTH_KEY',         'put your unique phrase here');
+define('AUTH_KEY',         'this is the sample auth key');
 define('SECURE_AUTH_KEY',  'put your unique phrase here');
 define('LOGGED_IN_KEY',    'put your unique phrase here');
 define('NONCE_KEY',        'put your unique phrase here');
