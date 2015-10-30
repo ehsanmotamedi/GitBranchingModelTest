@@ -475,3 +475,7 @@ body.rtl {
 .rtl table caption {
 	text-align: right;
 }
+
+.some-class {
+	background-color: #900;
+}
