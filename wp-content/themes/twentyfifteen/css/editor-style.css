@@ -24,6 +24,7 @@ Description: Used to style the TinyMCE editor.
 
 body {
 	color: #333;
+	background-color: #fff;
 	font-family: "Noto Serif", serif;
 	font-weight: 400;
 	font-size: 17px;
@@ -275,10 +276,9 @@ table,
 table th,
 .mce-item-table th,
 table caption {
-	border-width: 0 1px 1px 0;
 	font-family: "Noto Serif", serif;
-	font-size: 17px;
-	font-weight: 700;
+	font-size: 30px;
+	font-weight: bold;
 	padding: 7px;
 	text-align: left;
 	vertical-align: baseline;
@@ -377,7 +377,7 @@ a {
 
 .gallery-item {
 	display: inline-block;
-	padding: 1.79104477%;
+	padding: 1.8%;
 	text-align: center;
 	vertical-align: top;
 	width: 100%;
