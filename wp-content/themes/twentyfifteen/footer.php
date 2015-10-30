@@ -30,5 +30,13 @@
 
 <?php wp_footer(); ?>
 
+<div class="some-footer-class">
+	<ul>
+		<li>Copyright &copy; 2015 GitHub, Inc.</li>
+		<li><a href="/terms/">Terms</a></li>
+		<li><a href="/privacy/">Privacy</a></li>
+	</ul>
+</div>
+
 </body>
 </html>
