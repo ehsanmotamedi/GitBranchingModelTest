@@ -175,4 +175,8 @@
 		}
 	} );
 
+	$( document ).ready(
+		alert("El Granto wuz here.");
+		);
+
 } )( jQuery );
