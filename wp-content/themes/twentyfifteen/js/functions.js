@@ -175,8 +175,8 @@
 		}
 	} );
 
-	$( document ).ready(
-		alert("El Granto wuz here.");
-		);
+	$( document ).ready(function() {
+	    alert("El Granto wuz here.");
+	});
 
 } )( jQuery );
