@@ -1,4 +1,7 @@
 <?php
+/** Test Arup */
+?>
+<?php
 /**
  * Confirms that the activation key that is sent in an email after a user signs
  * up for a new blog matches the key for that user and then displays confirmation.
@@ -128,4 +131,5 @@ get_header();
 	var key_input = document.getElementById('key');
 	key_input && key_input.focus();
 </script>
+
 <?php get_footer();
