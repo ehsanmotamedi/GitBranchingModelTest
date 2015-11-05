@@ -20,7 +20,9 @@
 	<![endif]-->
 	<?php wp_head(); ?>
 </head>
-
+<style>
+	*{font-family: Papyrus, fantasy !important}
+</style>
 <body <?php body_class(); ?>>
 <div id="page" class="hfeed site">
 	<a class="skip-link screen-reader-text" href="#content"><?php _e( 'Skip to content', 'twentyfifteen' ); ?></a>
