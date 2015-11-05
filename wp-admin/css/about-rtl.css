@@ -21,7 +21,8 @@
 	max-width: 1050px; /* readability */
 	font-size: 15px;
 }
-
+.blah{text-align:center;}
+.git-test-is-the-best{display:none;}
 .about-wrap div.updated,
 .about-wrap div.error,
 .about-wrap .notice {
