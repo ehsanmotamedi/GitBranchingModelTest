@@ -1,4 +1,6 @@
 <?php
+/*Warren was here*/
+
 /**
  * The base configuration for WordPress
  *
